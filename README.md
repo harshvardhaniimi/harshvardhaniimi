@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 Personal website: https://www.harsh17.in.
 
-I am learning analytical techniques to solve real-life problems. In my free time, I read📚, trek🥾, cook🥘 and listen to music🪕.
+I am learning analytical techniques to solve real-life problems. In my free time, I read📚, trek🥾, cook🥘 and listen to music🪕. Recently, I started a [newsletter](https://www.getrevue.co/profile/harshbutjust) on R which is gaining popularity.
+
+> A short and sweet curated collection of R-related works. Five stories. Four packages. Three jargons. Two tweets. One Meme.
 
 I am currently a doctoral student of [Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics) at the Haslam College of Business, University of Tennessee. I completed BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021. I was an ERASMUS+ exchange student at the University of Latvia ([Latvijas Universitate](https://www.lu.lv/en/)) between Feb-Jun 2019.
 
