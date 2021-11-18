@@ -29,7 +29,7 @@ I am currently a doctoral student of [Business Analytics and Statistics](https:/
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=harshvardhaniimi&count_private=false&show_icons=true&include_all_commits=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhaniimi&hide=HTML,SCSS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhaniimi&layout=compact)
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshvardhaniimi)
 
