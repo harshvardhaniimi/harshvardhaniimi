@@ -1,4 +1,4 @@
-## Hi there. Welcome to my digital home. 👋
+## Hi there. Welcome to my digital garden. 👋
 
 <!--
 **harshvardhaniimi/harshvardhaniimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
