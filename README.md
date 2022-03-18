@@ -25,6 +25,10 @@ I am learning analytical techniques to solve real-life problems. In my free time
 
 I am currently a doctoral student of [Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics) at the Haslam College of Business, University of Tennessee. I completed BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021. I was an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) between Feb-Jun 2019.
 
+💬 Ask me about
+> Statistics, Simulations, R, Python, Personal Websites
+
+
 ### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=harshvardhaniimi&count_private=false&show_icons=true&include_all_commits=true)
