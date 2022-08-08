@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Personal website: https://www.harsh17.in.**
 
-I am learning analytical techniques to solve real-life problems. In my free time, I read📚, trek🥾, cook🥘 and listen to music🪕. Recently, I started a [newsletter](https://www.getrevue.co/profile/harshbutjust) on R which is popular with 120+ subscribers.
+I am learning analytical techniques to solve real-life problems. In my free time, I read📚, trek🥾, cook🥘 and listen to music🪕. Recently, I started a [newsletter](https://www.getrevue.co/profile/harshbutjust) on R which is popular with 200+ subscribers.
 
 > **A short and sweet curated collection of R-related works. Five stories. Four packages. Three jargons. Two tweets. One Meme.**
 >
