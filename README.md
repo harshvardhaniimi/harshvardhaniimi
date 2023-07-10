@@ -8,7 +8,7 @@ I'm passionate about using analytical techniques to solve real-world problems. W
 I'm currently a doctoral student of [Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics) at the Haslam College of Business, University of Tennessee. I am also an intern with HP Inc.'s Strategic Planning and Modelling Team, where I build [ML forecasting models](https://www.harsh17.in/hp22/) to forecast the demand for printers worldwide. But my learning doesn't stop there, I'm constantly picking up new techniques and tools to better solve the problems I encounter.
 
 ### Newsletters and More
-I share my learning journey and more in a free weekly [newsletter](https://harsh17.in/next) - _Today I Learned About Data Science_. It's a curated collection of Data-Sciency works and has found resonance with 400+ subscribers.
+I share my learning journey and more in a free weekly [newsletter](https://harsh17.in/next) - _Next: Today I Learned About Data Science_. It's a curated collection of Data-Sciency works and has found resonance with 400+ subscribers.
 
 ### Past Adventures
 My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. 
