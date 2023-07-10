@@ -1,35 +1,32 @@
-## Hi there. Welcome to my digital garden. 👋
+## Hi there, I'm Harshvardhan! Welcome to my digital garden. 👋
 
-<!--
-**harshvardhaniimi/harshvardhaniimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about using analytical techniques to solve real-world problems. When I'm not deep in data, you'll find me engrossed in a book📚, out on a hike🥾, experimenting in the kitchen🥘, or unwinding with music🪕. 
 
-Here are some ideas to get you started:
+**Personal Website: https://www.harsh17.in**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Endeavors
+I'm currently a doctoral student of [Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics) at the Haslam College of Business, University of Tennessee. I am also an intern with HP Inc.'s Strategic Planning and Modelling Team, where I build [ML forecasting models](https://www.harsh17.in/hp22/) to forecast the demand for printers worldwide. But my learning doesn't stop there, I'm constantly picking up new techniques and tools to better solve the problems I encounter.
 
-**Personal website: https://www.harsh17.in.**
+### Newsletters and More
+I share my learning journey and more in a free weekly [newsletter](https://harsh17.in/next) - _Today I Learned About Data Science_. It's a curated collection of Data-Sciency works and has found resonance with 400+ subscribers.
 
-I am learning analytical techniques to solve real-life problems. In my free time, I read📚, trek🥾, cook🥘 and listen to music🪕. Recently, I started a [newsletter](https://www.getrevue.co/profile/harshbutjust) on R which is popular with 200+ subscribers.
+### Past Adventures
+My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. I've also worked on many [projects](https://www.harsh17.in/project/) from [Kaya](https://huggingface.co/spaces/harsh17/shiny-cat), my GPT-powered pet cat, R packages on [Indian postal codes](https://www.harsh17.in/indiapin/), to [vaccine demand predictions](https://www.harsh17.in/malaria-vaccine-coverage/), and marketing of [humanoid robots](https://www.harsh17.in/invento-robotics/).
 
-> **A short and sweet curated collection of R-related works. Five stories. Four packages. Three jargons. Two tweets. One Meme.**
->
-> _Next — Today I Learned About R_, Harshvardhan
+### Skills and Interests
+I'm always open to collaborating on interesting projects, especially those that challenge me to learn something new. Here's what I can help you with or would love to chat about:
 
-I am currently a doctoral student of [Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics) at the Haslam College of Business, University of Tennessee. I completed BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021. I was an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) between Feb-Jun 2019.
+- **Topics:** Analytics in Production, Machine Learning, Deep Learning, Forecasting
+- **Languages:** R, Python
+- **Fun:** Hikes, Coffee
 
-💬 Ask me about
-> Statistics, Simulations, R, Python, Personal Websites
+I also [blog](https://www.harsh17.in/blog/) occasionally on a variety of topics.
 
+### Contact Me
+If you want to chat about work, collaboration, or just say hi, feel free to [email me](mailto:hello@harsh17.in).
 
 ### Github Stats
+These statistics represent my commitment to continuous learning and contributing to the open-source community. It's a reflection of my passion for data and coding.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=harshvardhaniimi&count_private=false&show_icons=true&include_all_commits=true)
 <br>
@@ -37,5 +34,11 @@ I am currently a doctoral student of [Business Analytics and Statistics](https:/
 <br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshvardhaniimi)
 
+### Links
 
-
+- [Talks](https://www.harsh17.in/talk/)
+- [Publications](https://www.harsh17.in/publications/)
+- [Projects](https://www.harsh17.in/project/)
+- [Blog](https://www.harsh17.in/blog/)
+- [Newsletter, Substack](https://hvsc1708.substack.com/)
+- [CV](https://www.harsh17.in/docs/cv.pdf)
