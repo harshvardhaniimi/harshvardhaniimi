@@ -11,7 +11,7 @@ I'm currently a doctoral student of [Business Analytics and Statistics](https://
 I share my learning journey and more in a free weekly [newsletter](https://harsh17.in/next) - _Today I Learned About Data Science_. It's a curated collection of Data-Sciency works and has found resonance with 400+ subscribers.
 
 ### Past Adventures
-My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. I've also worked on many [projects](https://www.harsh17.in/project/) from [Kaya](https://huggingface.co/spaces/harsh17/shiny-cat), my GPT-powered pet cat, R packages on [Indian postal codes](https://www.harsh17.in/indiapin/), to [vaccine demand predictions](https://www.harsh17.in/malaria-vaccine-coverage/), and marketing of [humanoid robots](https://www.harsh17.in/invento-robotics/).
+My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. I've also worked on many [projects](https://www.harsh17.in/project/) from [Kaya](https://huggingface.co/spaces/harsh17/shiny-cat), my GPT-powered pet cat, R packages on [Indian postal codes](https://www.harsh17.in/indiapin/), [vaccine demand predictions](https://www.harsh17.in/malaria-vaccine-coverage/), and marketing of [humanoid robots](https://www.harsh17.in/invento-robotics/).
 
 ### Skills and Interests
 I'm always open to collaborating on interesting projects, especially those that challenge me to learn something new. Here's what I can help you with or would love to chat about:
@@ -25,15 +25,6 @@ I also [blog](https://www.harsh17.in/blog/) occasionally on a variety of topics.
 ### Contact Me
 If you want to chat about work, collaboration, or just say hi, feel free to [email me](mailto:hello@harsh17.in).
 
-### Github Stats
-These statistics represent my commitment to continuous learning and contributing to the open-source community. It's a reflection of my passion for data and coding.
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=harshvardhaniimi&count_private=false&show_icons=true&include_all_commits=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhaniimi&layout=compact)
-<br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshvardhaniimi)
-
 ### Links
 
 - [Talks](https://www.harsh17.in/talk/)
@@ -42,3 +33,6 @@ These statistics represent my commitment to continuous learning and contributing
 - [Blog](https://www.harsh17.in/blog/)
 - [Newsletter, Substack](https://hvsc1708.substack.com/)
 - [CV](https://www.harsh17.in/docs/cv.pdf)
+
+### Visitor Count
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshvardhaniimi)
