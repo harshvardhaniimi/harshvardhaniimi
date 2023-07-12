@@ -11,7 +11,7 @@ I'm currently a doctoral student of [Business Analytics and Statistics](https://
 I share my learning journey and more in a free weekly [newsletter](https://harsh17.in/next) - _Next: Today I Learned About Data Science_. It's a curated collection of Data-Sciency works and has found resonance with 200+ subscribers. The format is simple: five stories, four packages, three jargons, two tweets and one meme.
 
 ### Past Adventures
-My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. 
+My previous exploits include completing a BA and MBA from [IIM Indore](https://iimidr.ac.in) in April 2021, and being an ERASMUS+ exchange student with EU scholarship at the [University of Latvia](https://www.lu.lv/en/) from Feb-Jun 2019. 
 
 I've also worked on many [projects](https://www.harsh17.in/project/) from [Kaya](https://huggingface.co/spaces/harsh17/shiny-cat), my GPT-powered pet cat, R packages on [Indian postal codes](https://www.harsh17.in/indiapin/), [vaccine demand predictions](https://www.harsh17.in/malaria-vaccine-coverage/), and marketing of [humanoid robots](https://www.harsh17.in/invento-robotics/).
 
